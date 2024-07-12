@@ -1,4 +1,4 @@
-# Malaria-diagnosis
+# Malaria diagnosis using neural networks
 
 ### Overview
 This project aims to develop a deep learning model to diagnose malaria using microscopic images of blood smears. The model is built using TensorFlow and trained on the Malaria dataset from TensorFlow Datasets. The primary goal is to accurately classify images as either 'infected' or 'uninfected'. <br>
