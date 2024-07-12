@@ -4,6 +4,7 @@
 This project aims to develop a deep learning model to diagnose malaria using microscopic images of blood smears. The model is built using TensorFlow and trained on the Malaria dataset from TensorFlow Datasets. The primary goal is to accurately classify images as either 'infected' or 'uninfected'. <br>
 ### Dataset
 The dataset used is the Malaria dataset from TensorFlow Datasets, which contains 27,558 images of blood smears with labels indicating whether the sample is infected with malaria or not. <br>
+### Steps Involved <br>
 1. Data Loading
 The dataset is loaded using TensorFlow Datasets, which provides a convenient way to access and preprocess the data.
 
