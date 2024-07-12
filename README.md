@@ -18,7 +18,7 @@ Sample images from the dataset are visualized to understand the data distributio
 The images are resized and rescaled to a standard size and range. This step includes normalization and standardization to prepare the data for training.
 
 5. Model Building
-A convolutional neural network (CNN) is constructed using TensorFlow. The model architecture includes several layers such as convolutional layers, max-pooling layers, batch normalization, and dense layers. The final layer uses a sigmoid activation function to output a binary classification.
+A neural network is constructed using TensorFlow. The model architecture includes several layers such as convolutional layers, max-pooling layers, batch normalization, and dense layers. The final layer uses a sigmoid activation function to output a binary classification.
 
 6. Model Training
 The model is compiled with an optimizer, loss function, and evaluation metrics. It is then trained on the training dataset, with validation on the validation set to monitor performance and adjust parameters.
